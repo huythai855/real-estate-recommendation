@@ -1,0 +1,282 @@
+[
+  {
+    "loại hình": "nhà mặt đất",
+    "giá": "5000000000",
+    "diện tích": "120",
+    "mặt tiền": "8",
+    "số phòng khách": 1,
+    "số phòng ngủ": 3,
+    "số phòng tắm": 2,
+    "khu vực": {
+      "phường": "Nguyễn Trãi",
+      "quận": "Hà Đông",
+      "thành phố": "Hà Nội"
+    }
+  },
+  {
+    "loại hình": "chung cư",
+    "giá": "3200000000",
+    "diện tích": "75",
+    "mặt tiền": "",
+    "số phòng khách": 1,
+    "số phòng ngủ": 2,
+    "số phòng tắm": 2,
+    "khu vực": {
+      "phường": "Vĩnh Tuy",
+      "quận": "Hai Bà Trưng",
+      "thành phố": "Hà Nội"
+    }
+  },
+  {
+    "loại hình": "căn hộ dịch vụ",
+    "giá": "2000000000",
+    "diện tích": "50",
+    "mặt tiền": "",
+    "số phòng khách": 1,
+    "số phòng ngủ": 1,
+    "số phòng tắm": 1,
+    "khu vực": {
+      "phường": "Phạm Ngũ Lão",
+      "quận": "1",
+      "thành phố": "Hồ Chí Minh"
+    }
+  },
+  {
+    "loại hình": "nhà mặt đất",
+    "giá": "7500000000",
+    "diện tích": "150",
+    "mặt tiền": "10",
+    "số phòng khách": 2,
+    "số phòng ngủ": 4,
+    "số phòng tắm": 3,
+    "khu vực": {
+      "phường": "Thảo Điền",
+      "quận": "2",
+      "thành phố": "Hồ Chí Minh"
+    }
+  },
+  {
+    "loại hình": "chung cư",
+    "giá": "2800000000",
+    "diện tích": "85",
+    "mặt tiền": "",
+    "số phòng khách": 1,
+    "số phòng ngủ": 2,
+    "số phòng tắm": 2,
+    "khu vực": {
+      "phường": "Tân Phong",
+      "quận": "7",
+      "thành phố": "Hồ Chí Minh"
+    }
+  },
+  {
+    "loại hình": "nhà mặt đất",
+    "giá": "9500000000",
+    "diện tích": "200",
+    "mặt tiền": "12",
+    "số phòng khách": 2,
+    "số phòng ngủ": 5,
+    "số phòng tắm": 4,
+    "khu vực": {
+      "phường": "Phú Thượng",
+      "quận": "Tây Hồ",
+      "thành phố": "Hà Nội"
+    }
+  },
+  {
+    "loại hình": "chung cư",
+    "giá": "4500000000",
+    "diện tích": "100",
+    "mặt tiền": "",
+    "số phòng khách": 1,
+    "số phòng ngủ": 3,
+    "số phòng tắm": 2,
+    "khu vực": {
+      "phường": "Cầu Diễn",
+      "quận": "Nam Từ Liêm",
+      "thành phố": "Hà Nội"
+    }
+  },
+  {
+    "loại hình": "căn hộ dịch vụ",
+    "giá": "1800000000",
+    "diện tích": "45",
+    "mặt tiền": "",
+    "số phòng khách": 1,
+    "số phòng ngủ": 1,
+    "số phòng tắm": 1,
+    "khu vực": {
+      "phường": "Bến Nghé",
+      "quận": "1",
+      "thành phố": "Hồ Chí Minh"
+    }
+  },
+  {
+    "loại hình": "nhà mặt đất",
+    "giá": "12000000000",
+    "diện tích": "250",
+    "mặt tiền": "15",
+    "số phòng khách": 2,
+    "số phòng ngủ": 6,
+    "số phòng tắm": 4,
+    "khu vực": {
+      "phường": "Vạn Phúc",
+      "quận": "Ba Đình",
+      "thành phố": "Hà Nội"
+    }
+  },
+  {
+    "loại hình": "chung cư",
+    "giá": "3500000000",
+    "diện tích": "80",
+    "mặt tiền": "",
+    "số phòng khách": 1,
+    "số phòng ngủ": 2,
+    "số phòng tắm": 2,
+    "khu vực": {
+      "phường": "Định Công",
+      "quận": "Hoàng Mai",
+      "thành phố": "Hà Nội"
+    }
+  },
+  {
+    "loại hình": "căn hộ dịch vụ",
+    "giá": "2500000000",
+    "diện tích": "55",
+    "mặt tiền": "",
+    "số phòng khách": 1,
+    "số phòng ngủ": 2,
+    "số phòng tắm": 1,
+    "khu vực": {
+      "phường": "Thảo Điền",
+      "quận": "2",
+      "thành phố": "Hồ Chí Minh"
+    }
+  },
+  {
+    "loại hình": "nhà mặt đất",
+    "giá": "8000000000",
+    "diện tích": "180",
+    "mặt tiền": "10",
+    "số phòng khách": 2,
+    "số phòng ngủ": 4,
+    "số phòng tắm": 3,
+    "khu vực": {
+      "phường": "Dịch Vọng",
+      "quận": "Cầu Giấy",
+      "thành phố": "Hà Nội"
+    }
+  },
+  {
+    "loại hình": "chung cư",
+    "giá": "3700000000",
+    "diện tích": "90",
+    "mặt tiền": "",
+    "số phòng khách": 1,
+    "số phòng ngủ": 3,
+    "số phòng tắm": 2,
+    "khu vực": {
+      "phường": "Mễ Trì",
+      "quận": "Nam Từ Liêm",
+      "thành phố": "Hà Nội"
+    }
+  },
+  {
+    "loại hình": "căn hộ dịch vụ",
+    "giá": "2100000000",
+    "diện tích": "60",
+    "mặt tiền": "",
+    "số phòng khách": 1,
+    "số phòng ngủ": 1,
+    "số phòng tắm": 1,
+    "khu vực": {
+      "phường": "Tân Định",
+      "quận": "1",
+      "thành phố": "Hồ Chí Minh"
+    }
+  },
+  {
+    "loại hình": "nhà mặt đất",
+    "giá": "10000000000",
+    "diện tích": "220",
+    "mặt tiền": "13",
+    "số phòng khách": 2,
+    "số phòng ngủ": 5,
+    "số phòng tắm": 3,
+    "khu vực": {
+      "phường": "Liễu Giai",
+      "quận": "Ba Đình",
+      "thành phố": "Hà Nội"
+    }
+  },
+  {
+    "loại hình": "chung cư",
+    "giá": "3000000000",
+    "diện tích": "85",
+    "mặt tiền": "",
+    "số phòng khách": 1,
+    "số phòng ngủ": 2,
+    "số phòng tắm": 2,
+    "khu vực": {
+      "phường": "Phú Mỹ",
+      "quận": "7",
+      "thành phố": "Hồ Chí Minh"
+    }
+  },
+  {
+    "loại hình": "căn hộ dịch vụ",
+    "giá": "2800000000",
+    "diện tích": "70",
+    "mặt tiền": "",
+    "số phòng khách": 1,
+    "số phòng ngủ": 2,
+    "số phòng tắm": 1,
+    "khu vực": {
+      "phường": "An Phú",
+      "quận": "2",
+      "thành phố": "Hồ Chí Minh"
+    }
+  },
+  {
+    "loại hình": "nhà mặt đất",
+    "giá": "11000000000",
+    "diện tích": "240",
+    "mặt tiền": "14",
+    "số phòng khách": 2,
+    "số phòng ngủ": 6,
+    "số phòng tắm": 4,
+    "khu vực": {
+      "phường": "Thượng Đình",
+      "quận": "Thanh Xuân",
+      "thành phố": "Hà Nội"
+    }
+  },
+  {
+    "loại hình": "chung cư",
+    "giá": "2700000000",
+    "diện tích": "75",
+    "mặt tiền": "",
+    "số phòng khách": 1,
+    "số phòng ngủ": 2,
+    "số phòng tắm": 2,
+    "khu vực": {
+      "phường": "Bến Thành",
+      "quận": "1",
+      "thành phố": "Hồ Chí Minh"
+    }
+  },
+  {
+    "loại hình": "căn hộ dịch vụ",
+    "giá": "2200000000",
+    "diện tích": "65",
+    "mặt tiền": "",
+    "số phòng khách": 1,
+    "số phòng ngủ": 1,
+    "số phòng tắm": 1,
+    "khu vực": {
+      "phường": "Đa Kao",
+      "quận": "1",
+      "thành phố": "Hồ Chí Minh"
+    }
+  }
+]

@@ -1,0 +1,14 @@
+  {
+    "loại hình": "nhà đất",
+    "giá": "2000000000",
+    "diện tích": "50",
+    "mặt tiền": "",
+    "số phòng khách": 1,
+    "số phòng ngủ": 1,
+    "số phòng tắm": "",
+    "khu vực": {
+      "phường": "Phúc La",
+      "quận": "Hà Đông",
+      "thành phố": "Hà Nội"
+    }
+  }
